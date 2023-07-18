@@ -1,0 +1,53 @@
+
+body{background: #F8F8FF
+
+font-family: TimesNewRoman;
+ 
+
+}
+
+
+.titulo-principal{
+
+	font-family: TimesNewRoman;
+	 color: rgb(47,79,79);
+}
+
+
+.imagem-logo{
+	align: left;
+
+	
+}
+
+
+
+.text-empresa{
+	“text-align: center;”
+	font-family: TimesNewRoman;
+ 
+
+}
+
+
+.servicos{
+	text-align: left;
+	
+	font-family: TimesNewRoman;
+ 
+
+}
+.rodape{
+
+	position: absolute;
+	bottom: 0;
+    background-color: rgb(173,216,230);
+    color: #FFF;
+    width: 100%;
+    height: 100px;    
+    text-align: center;
+    line-height: 100px;
+
+}
+
+
