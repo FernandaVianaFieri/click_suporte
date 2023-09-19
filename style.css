@@ -5,6 +5,14 @@ padding: 0;
 box-sizing: border-box;
 font-family: TimesNewRoman;
 background-size: contain;
+background-color: rgb(95,158,160,0.2);
+
+
+
+}
+
+.fundo{
+background-color: rgb(34, 32, 37, 1.0);
 
 
 }
@@ -47,7 +55,9 @@ padding: 10px 12px;
 	font-family: TimesNewRoman;
 	 color: rgb(25,25,112);
 	 font-size: 30;
-}
+
+	 
+	}
 
 
 
@@ -65,17 +75,32 @@ padding: 10px 12px;
 .servicos{
 	text-align: left;	
 	font-family: TimesNewRoman;
+	padding: 0px;
 
 
 	}
 
+	
+
+
 .contatos{
 	font-family: TimesNewRoman;
 	 color: rgb(25,25,112);
+	margin: 10px 0;
 
 
 
 }
+.slider img {
+   	background-size: cover; 
+   	height: 350px;
+   	width: 300;
+   	margin-left: 50px;
+
+
+
+   }
+
 
 
 .rodape{
@@ -91,8 +116,4 @@ padding: 10px 12px;
     margin:auto;
        }
 
-   .slider img {
-   	background-size: cover; 
-
-
-   }
+   
