@@ -39,7 +39,7 @@ text-decoration: nome;
 	
 float: left;
 display: block;
-padding: 10px 12px;
+padding: 35px 20px;
 
 }
 
@@ -84,15 +84,15 @@ padding: 10px 12px;
 
 
 	}
+
+	
 	.servicosprestados{
 		text-align: center;
 
 	}
 
-	
 
-
-.contatos{
+	.contatos{
 	font-family: TimesNewRoman;
 	 color: rgb(25,25,112);
 	margin: 10px 0;
@@ -113,7 +113,32 @@ padding: 10px 12px;
    	
    }
 .textocontato{
-	text-align: center;
+text-align: center;
+font-size: 23;
+font-weight: bold;
+color: rgba(54,54,54,1.0)
+}
+
+.form{
+color: rgba(54,54,54,1.0)
+font-weight: bold;
+text-align: center;
+
+}
+
+.form input.nome{
+   margin-top:2px;
+  width:400px;
+}
+
+.form input.email{
+ margin-top:2px;
+  width:400px;
+}
+
+.form textarea.mensagem{
+	width:400px;
+
 }
 
 
@@ -128,8 +153,11 @@ padding: 10px 12px;
     height: 80px;    
     text-align:center;
     line-height: 90px;
-    margin:auto;
-       }
+     }
 
+.footer textorodape{
+	
+
+}
 
    
